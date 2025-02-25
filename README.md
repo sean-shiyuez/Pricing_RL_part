@@ -1,7 +1,3 @@
-# DQN Charging Pricing Project
-
-This project demonstrates the use of stable-baselines3 to implement a DQN algorithm for optimizing charging pricing in a multi-region charging station environment.
-
 ## Project Structure
 
 - **charging_env.py**: Defines the custom OpenAI Gym environment `ChargingEnv`.  
