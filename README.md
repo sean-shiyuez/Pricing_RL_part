@@ -94,8 +94,4 @@ Training results are saved in:
 
 ## License
 
-[Your License Here]
-
-## Contributing
-
-[Your Contributing Guidelines Here] 
+MIT
